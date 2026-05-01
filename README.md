@@ -10,6 +10,7 @@ DSA problem-solving progress.
 | 217 | Contains Duplicate         | Hashing | HashSet                | O(n)   | O(n)   |
 | 242 | Valid Anagram              | Strings | Single HashMap Inc/Dec | O(n)   | O(n)   |
 | 349 | Intersection of Two Arrays | Arrays  | Two Sets               | O(n+m) | O(n+m) |
+| 125 | Valid Palindrome           | Strings | Two Pointers           | O(n)   | O(n)   |
 
 ## Topics
 
