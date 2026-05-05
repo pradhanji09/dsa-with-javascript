@@ -14,6 +14,7 @@ DSA problem-solving progress.
 | 167 | Two Sum II                                     | Arrays  | Two Pointers             | O(n)   | O(1)   |
 | 643 | Maximum Average Subarray I                     | Arrays  | Sliding Window (Fixed)   | O(n)   | O(1)   |
 | 3   | Longest Substring Without Repeating Characters | Strings | Sliding Window + HashMap | O(n)   | O(n)   |
+| 121 | Best Time to Buy and Sell Stock                | Arrays  | Sliding Window           | O(n)   | O(1)   |
 
 ## Topics
 
