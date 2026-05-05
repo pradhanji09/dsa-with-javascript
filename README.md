@@ -12,6 +12,7 @@ DSA problem-solving progress.
 | 349 | Intersection of Two Arrays | Arrays  | Two Sets               | O(n+m) | O(n+m) |
 | 125 | Valid Palindrome           | Strings | Two Pointers           | O(n)   | O(n)   |
 | 167 | Two Sum II                 | Arrays  | Two Pointers           | O(n)   | O(1)   |
+| 643 | Maximum Average Subarray I | Arrays  | Sliding Window (Fixed) | O(n)   | O(1)   |
 
 ## Topics
 
