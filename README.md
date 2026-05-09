@@ -16,6 +16,7 @@ DSA problem-solving progress.
 | 3   | Longest Substring Without Repeating Characters | Strings | Sliding Window + HashMap | O(n)       | O(n)   |
 | 121 | Best Time to Buy and Sell Stock                | Arrays  | Sliding Window           | O(n)       | O(1)   |
 | 303 | Range Sum Query - Immutable                    | Arrays  | Prefix Sum               | O(1) query | O(n)   |
+| 560 | Subarray Sum Equals K                          | Arrays  | Prefix Sum + HashMap     | O(n)       | O(n)   |
 
 ## Topics
 
