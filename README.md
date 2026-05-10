@@ -20,6 +20,7 @@ DSA problem-solving progress.
 | 9   | Palindrome Number                              | Math / Strings | Two Pointers             | O(n)       | O(n)   |
 | 13  | Roman to Integer                               | Strings        | HashMap + Greedy         | O(n)       | O(1)   |
 | 268 | Missing Number                                 | Arrays         | Math / Summation         | O(n)       | O(1)   |
+| 238 | Product of Array Except Self                   | Arrays         | Prefix Product           | O(n)       | O(1)   |
 
 ## Topics
 
