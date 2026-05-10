@@ -19,6 +19,7 @@ DSA problem-solving progress.
 | 560 | Subarray Sum Equals K                          | Arrays         | Prefix Sum + HashMap     | O(n)       | O(n)   |
 | 9   | Palindrome Number                              | Math / Strings | Two Pointers             | O(n)       | O(n)   |
 | 13  | Roman to Integer                               | Strings        | HashMap + Greedy         | O(n)       | O(1)   |
+| 268 | Missing Number                                 | Arrays         | Math / Summation         | O(n)       | O(1)   |
 
 ## Topics
 
