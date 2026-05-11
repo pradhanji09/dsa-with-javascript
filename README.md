@@ -22,6 +22,7 @@ DSA problem-solving progress.
 | 268 | Missing Number                                 | Arrays         | Math / Summation         | O(n)       | O(1)   |
 | 238 | Product of Array Except Self                   | Arrays         | Prefix Product           | O(n)       | O(1)   |
 | 283 | Move Zeroes                                    | Arrays         | Two Pointers             | O(n)       | O(1)   |
+| 977 | Squares of a Sorted Array                      | Arrays         | Two Pointers             | O(n)       | O(n)   |
 
 ## Topics
 
