@@ -21,6 +21,7 @@ DSA problem-solving progress.
 | 13  | Roman to Integer                               | Strings        | HashMap + Greedy         | O(n)       | O(1)   |
 | 268 | Missing Number                                 | Arrays         | Math / Summation         | O(n)       | O(1)   |
 | 238 | Product of Array Except Self                   | Arrays         | Prefix Product           | O(n)       | O(1)   |
+| 283 | Move Zeroes                                    | Arrays         | Two Pointers             | O(n)       | O(1)   |
 
 ## Topics
 
