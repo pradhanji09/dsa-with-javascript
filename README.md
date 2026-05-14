@@ -25,6 +25,7 @@ DSA problem-solving progress.
 | 977 | Squares of a Sorted Array                      | Arrays         | Two Pointers             | O(n)       | O(n)         |
 | 209 | Minimum Size Subarray Sum                      | Arrays         | Sliding Window           | O(n)       | O(1)         |
 | 523 | Continuous Subarray Sum                        | Arrays         | Prefix Sum + HashMap     | O(n)       | O(min(n, k)) |
+| 206 | Reverse Linked List                            | LinkedList     | In-place Reversal        | O(n)       | O(1)         |
 
 ## Topics
 
