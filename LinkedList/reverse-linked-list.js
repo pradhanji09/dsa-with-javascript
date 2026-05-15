@@ -15,6 +15,12 @@
  *
  * Time:  O(n) - single pass through the list
  * Space: O(1) - only three pointers used
+ *
+ * Start:   null   [A→B→C→D]
+ * Step 1:  null ← [A]  [B→C→D]
+ * Step 2:  null ← [A←B]  [C→D]
+ * Step 3:  null ← [A←B←C]  [D]
+ * Step 4:  null ← [A←B←C←D]
  */
 var reverseList = function (head) {
   let prev = null;
