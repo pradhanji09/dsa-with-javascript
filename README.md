@@ -27,6 +27,7 @@ DSA problem-solving progress.
 | 523 | Continuous Subarray Sum                        | Arrays         | Prefix Sum + HashMap     | O(n)       | O(min(n, k)) |
 | 206 | Reverse Linked List                            | LinkedList     | In-place Reversal        | O(n)       | O(1)         |
 | 876 | Middle of the Linked List                      | Linked List    | Fast & Slow Pointer      | O(n)       | O(1)         |
+| 141 | Linked List Cycle                              | Linked List    | Fast & Slow Pointers     | O(n)       | O(1)         |
 
 ## Topics
 
