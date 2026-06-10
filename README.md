@@ -30,6 +30,7 @@ DSA problem-solving progress.
 | 141 | Linked List Cycle                              | Linked List    | Fast & Slow Pointers                     | O(n)       | O(1)         |
 | 142 | Linked List Cycle II                           | Linked List    | Fast & Slow Pointers                     | O(n)       | O(1)         |
 | 234 | Palindrome Linked List                         | Linked List    | Fast & Slow Pointers + In-place Reversal | O(n)       | O(1)         |
+| 21  | Merge Two Sorted Lists                         | Linked List    | Two Pointers                             | O(n + m)   | O(1)         |
 
 ## Topics
 
