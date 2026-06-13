@@ -35,6 +35,7 @@ DSA problem-solving progress.
 | 14  | Longest Common Prefix                          | Strings        | Sorting                                  | O(n log n \* m) | O(1)         |
 | 35  | Search Insert Position                         | Arrays         | Binary Search                            | O(log n)        | O(1)         |
 | 66  | Plus One                                       | Arrays         | Carry Propagation                        | O(n)            | O(1)         |
+| 88  | Merge Sorted Array                             | Arrays         | Three Pointers (Backwards Merge)         | O(m + n)        | O(1)         |
 
 ## Topics
 
