@@ -38,6 +38,8 @@ DSA problem-solving progress.
 | 88  | Merge Sorted Array                             | Arrays         | Three Pointers (Backwards Merge)         | O(m + n)        | O(1)         |
 | 108 | Convert Sorted Array to Binary Search Tree     | Trees          | Divide and Conquer / DFS Recursion       | O(n)            | O(log n)     |
 | 160 | Intersection of Two Linked Lists               | Linked List    | Two Pointers (Pointer Switching)         | O(m + n)        | O(1)         |
+| 83  | Remove Duplicates from Sorted List             | Linked List    | Linked List Traversal                    | O(n)            | O(1)         |
+| 203 | Remove Linked List Elements                    | Linked List    | Linked List Traversal + Dummy Node       | O(n)            | O(1)         |
 
 ## Topics
 
