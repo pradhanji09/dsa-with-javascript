@@ -41,6 +41,7 @@ DSA problem-solving progress.
 | 83   | Remove Duplicates from Sorted List             | Linked List    | Linked List Traversal                    | O(n)            | O(1)         |
 | 203  | Remove Linked List Elements                    | Linked List    | Linked List Traversal + Dummy Node       | O(n)            | O(1)         |
 | 1768 | Merge Strings Alternately                      | Strings        | Two Pointers                             | O(n + m)        | O(n + m)     |
+| 5    | Longest Palindromic Substring                  | Strings        | Expand Around Center                     | O(n²)           | O(1)         |
 
 ## Topics
 
