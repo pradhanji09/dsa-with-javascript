@@ -5,7 +5,7 @@ DSA problem-solving progress.
 ## Progress
 
 | #    | Problem                                        | Topic          | Approach                                 | Time            | Space        |
-| ---- | ---------------------------------------------- | -------------- | ---------------------------------------- | --------------- | ------------ | --- |
+| ---- | ---------------------------------------------- | -------------- | ---------------------------------------- | --------------- | ------------ |
 | 1    | Two Sum                                        | Hashing        | HashMap                                  | O(n)            | O(n)         |
 | 217  | Contains Duplicate                             | Hashing        | HashSet                                  | O(n)            | O(n)         |
 | 242  | Valid Anagram                                  | Strings        | Single HashMap Inc/Dec                   | O(n)            | O(n)         |
@@ -42,7 +42,8 @@ DSA problem-solving progress.
 | 203  | Remove Linked List Elements                    | Linked List    | Linked List Traversal + Dummy Node       | O(n)            | O(1)         |
 | 1768 | Merge Strings Alternately                      | Strings        | Two Pointers                             | O(n + m)        | O(n + m)     |
 | 5    | Longest Palindromic Substring                  | Strings        | Expand Around Center                     | O(n²)           | O(1)         |
-| 20   | Valid Parentheses                              | Stack          | Stack + HashMap                          | O(n)            | O(n)         | s   |
+| 20   | Valid Parentheses                              | Stack          | Stack + HashMap                          | O(n)            | O(n)         |
+| 1021 | Remove Outermost Parentheses                   | Stack          | Counter / Parentheses Depth Tracking     | O(n)            | O(1)         |
 
 ## Topics
 
