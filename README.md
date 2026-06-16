@@ -45,6 +45,7 @@ DSA problem-solving progress.
 | 20   | Valid Parentheses                              | Stack               | Stack + HashMap                          | O(n)            | O(n)         |
 | 1021 | Remove Outermost Parentheses                   | Stack               | Counter / Parentheses Depth Tracking     | O(n)            | O(1)         |
 | 198  | House Robber                                   | Dynamic Programming | DP (Space Optimized)                     | O(n)            | O(1)         |
+| 213  | House Robber II                                | Dynamic Programming | DP (Space Optimized)                     | O(n)            | O(1)         |
 
 ## Topics
 
