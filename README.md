@@ -46,6 +46,7 @@ DSA problem-solving progress.
 | 1021 | Remove Outermost Parentheses                   | Stack               | Counter / Parentheses Depth Tracking     | O(n)            | O(1)         |
 | 198  | House Robber                                   | Dynamic Programming | DP (Space Optimized)                     | O(n)            | O(1)         |
 | 213  | House Robber II                                | Dynamic Programming | DP (Space Optimized)                     | O(n)            | O(1)         |
+| 496  | Next Greater Element I                         | Stack               | Monotonic Stack + HashMap                | O(n + m)        | O(n)         |
 
 ## Topics
 
