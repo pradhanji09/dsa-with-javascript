@@ -47,6 +47,7 @@ DSA problem-solving progress.
 | 198  | House Robber                                   | Dynamic Programming | DP (Space Optimized)                     | O(n)            | O(1)         |
 | 213  | House Robber II                                | Dynamic Programming | DP (Space Optimized)                     | O(n)            | O(1)         |
 | 496  | Next Greater Element I                         | Stack               | Monotonic Stack + HashMap                | O(n + m)        | O(n)         |
+| 503  | Next Greater Element II                        | Stack               | Monotonic Stack (Circular Array)         | O(n)            | O(n)         |
 
 ## Topics
 
