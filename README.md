@@ -50,6 +50,7 @@ DSA problem-solving progress.
 | 503  | Next Greater Element II                        | Stack               | Monotonic Stack (Circular Array)         | O(n)            | O(n)         |
 | 2956 | Find Common Elements Between Two Arrays        | Hashing             | Hash Set Lookup                          | O(n + m)        | O(n + m)     |
 | 11   | Container With Most Water                      | Two Pointers        | Opposite Direction Two Pointers          | O(n)            | O(1)         |
+| 2    | Add Two Numbers                                | Linked List         | Simulation                               | O(max(n, m))    | O(max(n, m)) |
 
 ## Topics
 
