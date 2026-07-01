@@ -53,6 +53,7 @@ DSA problem-solving progress.
 | 2    | Add Two Numbers                                    | Linked List         | Simulation                               | O(max(n, m))       | O(max(n, m)) |
 | 28   | Find the Index of the First Occurrence in a String | Strings             | Sliding Window / Brute Force             | O((n - m + 1) × m) | O(m)         |
 | 53   | Maximum Subarray                                   | Array               | Kadane's Algorithm                       | O(n)               | O(1)         |
+| 647  | Palindromic Substrings                             | Strings             | Expand Around Center                     | O(n²)              | O(1)         |
 
 ## Topics
 
