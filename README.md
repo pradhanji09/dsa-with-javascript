@@ -54,6 +54,7 @@ DSA problem-solving progress.
 | 28   | Find the Index of the First Occurrence in a String | Strings             | Sliding Window / Brute Force             | O((n - m + 1) × m) | O(m)         |
 | 53   | Maximum Subarray                                   | Array               | Kadane's Algorithm                       | O(n)               | O(1)         |
 | 647  | Palindromic Substrings                             | Strings             | Expand Around Center                     | O(n²)              | O(1)         |
+| 387  | First Unique Character in a String                 | Hashing             | Frequency Counting                       | O(n)               | O(k)         |
 
 ## Topics
 
